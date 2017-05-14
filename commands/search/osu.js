@@ -64,3 +64,4 @@ module.exports = class OsuCommand extends Command {
         }
     }
 };
+ 
