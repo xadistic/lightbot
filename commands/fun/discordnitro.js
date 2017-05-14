@@ -1,3 +1,4 @@
+/* (c) Jalium */
 const stripIndents = require('common-tags').stripIndents;
 const commando = require('discord.js-commando');
 
@@ -15,7 +16,7 @@ module.exports = class UserInfoCommand extends commando.Command {
 			group: 'fun',
 			memberName: 'discordnitro',
 			description: 'Displays a discord nitro only message.',
-			examples: ['j.discordnitro'],
+			examples: ['!discordnitro'],
 			guildOnly: true,
 
 		});
