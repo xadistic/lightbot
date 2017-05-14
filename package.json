@@ -1,0 +1,22 @@
+{
+  "name": "spotbot",
+  "version": "1.0.0",
+  "description": "SpotBot! Revolutionary Learning Technician",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.0",
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.9.0",
+    "opusscript": "0.0.3",
+    "request": "^2.81.0",
+    "speedtest-net": "^1.3.1",
+    "sqlite": "^2.7.0",
+    "winston": "^2.3.1",
+    "ytdl-core": "^0.14.0"
+  }
+}
